@@ -1,0 +1,140 @@
+name: Beazer Homes USA
+description: >-
+  Beazer Homes USA, Inc. (NYSE: BZH) is an Atlanta, Georgia-headquartered
+  national homebuilder founded in 1985 and publicly listed since 1994. The
+  company designs, sells, and builds single-family and multi-family homes across
+  approximately thirteen U.S. states under brand differentiators such as
+  Choice Plans (customizable floorplans), Mortgage Choice (competitive lender
+  program), Style Choice (interior personalization), and Livable Features
+  (accessibility options). Beazer markets itself as "America's #1
+  Energy-Efficient Homebuilder," citing homes that are 44% more efficient than
+  the average HERS-rated new home and shipping whole-house ERV ventilation in
+  100% of homes. As of the most recent public data point (FY2016 10-K), Beazer
+  reported revenue of $1.822B, delivered 5,419 homes, operated 161 active
+  communities, and employed approximately 1,100 people. The company has no
+  public developer program or external APIs; its digital surface is a
+  consumer-facing marketing/community-finder website plus an investor
+  relations portal.
+image: https://avatars.githubusercontent.com/u/198595107?v=4
+url: https://www.beazer.com
+modified: '2026-05-23'
+created: '2026-05-05'
+specificationVersion: '0.20'
+tags:
+  - Homebuilder
+  - Real Estate
+  - Construction
+  - Residential
+  - Energy Efficiency
+  - Housing
+  - Consumer
+  - Fortune 1000
+  - NYSE
+apis: []
+common:
+  - type: Portal
+    url: https://www.beazer.com
+  - type: Blog
+    url: https://ir.beazer.com/news-releases
+  - type: GitHubOrganization
+    url: https://github.com/Beazer-Homes
+  - type: Contact
+    url: https://www.beazer.com/contact-us
+  - type: TermsOfService
+    url: https://www.beazer.com/legal/terms-conditions
+  - type: PrivacyPolicy
+    url: https://www.beazer.com/legal/privacy-policy
+  - type: Features
+    data:
+      - name: Choice Plans
+        description: >-
+          Customizable floorplan program letting buyers reconfigure rooms
+          (e.g., add a bedroom, extend the great room) on a fixed plan
+          template before construction.
+      - name: Mortgage Choice
+        description: >-
+          Competitive lender program that surfaces multiple mortgage offers
+          so buyers can comparison-shop financing rather than being routed
+          to a single preferred lender.
+      - name: Style Choice
+        description: >-
+          Design studio program for personalizing interior finishes,
+          fixtures, flooring, and cabinetry.
+      - name: Livable Features
+        description: >-
+          Accessibility-oriented design options (wider doorways, lever
+          handles, accessible heights) intended to support aging-in-place
+          and multi-generational living.
+      - name: Energy Efficient Construction
+        description: >-
+          All Beazer homes are built to a HERS-rated efficiency target
+          marketed as 44% better than the average HERS-rated new home,
+          with whole-house ERV ventilation and enhanced air sealing.
+      - name: Indoor Air Quality
+        description: >-
+          Whole-house Energy Recovery Ventilator (ERV) installed in 100%
+          of Beazer homes for continuous fresh-air exchange.
+      - name: Enhanced Insulation
+        description: >-
+          Exterior wall assemblies up to 50% thicker than standard
+          construction for improved thermal and acoustic performance.
+      - name: Warranty Program
+        description: >-
+          One-, two-, and ten-year limited warranty coverage on every
+          Beazer-built home.
+  - type: UseCases
+    data:
+      - name: New Construction Home Purchase
+        description: >-
+          Consumer buys a new single-family or attached home in an active
+          Beazer community, with selectable plan and finishes.
+      - name: First-Time Homebuyer
+        description: >-
+          Entry-level price-band communities marketed with affordability,
+          warranty, and mortgage-shopping support.
+      - name: Move-Up Buyer
+        description: >-
+          Larger Choice Plans and upgraded Style Choice packages targeted
+          at families upgrading from a starter home.
+      - name: Active Adult / Age-Targeted
+        description: >-
+          Livable Features and single-story plans positioned at empty-
+          nester and active-adult buyers.
+      - name: Build-to-Order Personalization
+        description: >-
+          Buyer selects a plan, Choice Plan structural option, and Style
+          Choice finishes during the pre-construction period.
+  - type: Integrations
+    data:
+      - name: Multiple Listing Service (MLS)
+        description: >-
+          Beazer communities and quick move-in inventory are syndicated to
+          MLS, Zillow, Realtor.com, and broker portals.
+      - name: Realtor Partner Program
+        description: >-
+          Co-broke program with licensed real-estate agents for buyer
+          representation.
+      - name: Mortgage Choice Lender Network
+        description: >-
+          Network of preferred mortgage lenders that compete on rate and
+          fees for Beazer buyers.
+      - name: TrustBuilder Surveys
+        description: >-
+          Third-party customer-experience measurement program cited by
+          Beazer for its customer-experience ranking.
+  - type: Solutions
+    data:
+      - name: Choice Plans Homes
+        description: Production plans with structural Choice Plan options.
+      - name: Gatherings (Active Adult)
+        description: >-
+          Beazer's age-targeted attached-home community concept for
+          downsizing buyers.
+      - name: Quick Move-In Inventory
+        description: >-
+          Completed or near-completed homes available for accelerated
+          closing.
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: http://apievangelist.com
