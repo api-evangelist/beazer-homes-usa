@@ -3,16 +3,10 @@
   "feeds": [
     {
       "source": "https://ir.beazer.com/news-releases",
-      "error": "timeout"
-    },
-    {
-      "source": "https://www.beazer.com",
-      "feed_url": "https://www.beazer.com",
-      "title": "",
       "saved": 0,
-      "method": "none"
+      "error": "TimeoutError (60s) on repeated fetch attempts"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:27:51Z"
 }
