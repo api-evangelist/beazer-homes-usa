@@ -32,6 +32,8 @@ tags:
   - NYSE
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/beazer-homes-usa-domain-security.yml
   - type: Portal
     url: https://www.beazer.com
   - type: Blog
