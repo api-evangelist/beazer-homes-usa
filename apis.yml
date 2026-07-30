@@ -15,6 +15,17 @@ description: >-
   public developer program or external APIs; its digital surface is a
   consumer-facing marketing/community-finder website plus an investor
   relations portal.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://avatars.githubusercontent.com/u/198595107?v=4
 url: https://www.beazer.com
 modified: '2026-05-23'
