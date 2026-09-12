@@ -64,6 +64,8 @@ tags_raw:
   - NYSE
 apis: []
 common:
+  - type: Website
+    url: https://www.beazer.com/
   - type: DomainSecurity
     url: security/beazer-homes-usa-domain-security.yml
   - type: Portal
