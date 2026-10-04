@@ -44,7 +44,7 @@ created: '2026-05-05'
 specificationVersion: '0.23'
 tags:
   - Homebuilder
-  - Real-Estate
+  - Real Estate
   - Construction
   - Residential
   - Energy Efficiency
@@ -62,6 +62,7 @@ tags_raw:
   - Consumer
   - Fortune 1000
   - NYSE
+  - Real-Estate
 apis: []
 common:
   - type: Website
