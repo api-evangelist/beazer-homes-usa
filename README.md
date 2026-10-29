@@ -1,4 +1,4 @@
-# Beazer Homes USA (beazer-homes-usa)
+# Beazer Homes USA
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,74 +66,81 @@
 
 Beazer Homes USA, Inc. (NYSE: BZH) is an Atlanta, Georgia-headquartered national homebuilder founded in 1985 and publicly listed since 1994. The company designs, sells, and builds single-family and multi-family homes across approximately thirteen U.S. states under brand differentiators such as Choice Plans (customizable floorplans), Mortgage Choice (competitive lender program), Style Choice (interior personalization), and Livable Features (accessibility options). Beazer markets itself as "America's #1 Energy-Efficient Homebuilder," citing homes that are 44% more efficient than the average HERS-rated new home and shipping whole-house ERV ventilation in 100% of homes. As of the most recent public data point (FY2016 10-K), Beazer reported revenue of $1.822B, delivered 5,419 homes, operated 161 active communities, and employed approximately 1,100 people. The company has no public developer program or external APIs; its digital surface is a consumer-facing marketing/community-finder website plus an investor relations portal.
 
-**URL:** [Visit APIs.json URL](https://www.beazer.com)
+**Areas:** Homebuilder · Real Estate · Construction · Residential · Energy Efficiency · Housing · Consumer · Fortune 1000 · NYSE
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Beazer Homes USA on APIs.io
 
-## Tags:
+Everything profiled for Beazer Homes USA is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/beazer-homes-usa/](https://apis.io/providers/beazer-homes-usa/)** — or go straight to one of the APIs or properties below.
 
- - Homebuilder, Real Estate, Construction, Residential, Energy Efficiency, Housing, Consumer, Fortune 1000, NYSE
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-23
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-Beazer Homes USA does not publish any public APIs, developer portal, or machine-readable specifications. The organization maintains a placeholder GitHub presence (`github.com/Beazer-Homes`, created 2025-02-10) with zero public repositories. All digital surfaces are consumer-facing (community finder, plan browsing, mortgage shopping) or investor-facing (press releases, SEC filings, sustainability reports).
+- [Beazer Homes Usa Domain Security](https://apis.io/security/beazer-homes-usa/beazer-homes-usa-domain-security/)
 
-## Common Properties
+## Where to find this API
 
-- [Portal](https://www.beazer.com)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.beazer.com/)
 - [Blog](https://ir.beazer.com/news-releases)
-- [GitHubOrganization](https://github.com/Beazer-Homes)
-- [Contact](https://www.beazer.com/contact-us)
-- [TermsOfService](https://www.beazer.com/legal/terms-conditions)
-- [PrivacyPolicy](https://www.beazer.com/legal/privacy-policy)
+- [Terms of service](https://www.beazer.com/legal/terms-conditions)
+- [Privacy policy](https://www.beazer.com/legal/privacy-policy)
+- [GitHub](https://github.com/Beazer-Homes)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Choice Plans | Customizable floorplan program letting buyers reconfigure rooms (e.g., add a bedroom, extend the great room) on a fixed plan template before construction. |
-| Mortgage Choice | Competitive lender program that surfaces multiple mortgage offers so buyers can comparison-shop financing rather than being routed to a single preferred lender. |
-| Style Choice | Design studio program for personalizing interior finishes, fixtures, flooring, and cabinetry. |
-| Livable Features | Accessibility-oriented design options (wider doorways, lever handles, accessible heights) intended to support aging-in-place and multi-generational living. |
-| Energy Efficient Construction | All Beazer homes are built to a HERS-rated efficiency target marketed as 44% better than the average HERS-rated new home, with whole-house ERV ventilation and enhanced air sealing. |
-| Indoor Air Quality | Whole-house Energy Recovery Ventilator (ERV) installed in 100% of Beazer homes for continuous fresh-air exchange. |
-| Enhanced Insulation | Exterior wall assemblies up to 50% thicker than standard construction for improved thermal and acoustic performance. |
-| Warranty Program | One-, two-, and ten-year limited warranty coverage on every Beazer-built home. |
+**Kin Score 6.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 10.7 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| New Construction Home Purchase | Consumer buys a new single-family or attached home in an active Beazer community, with selectable plan and finishes. |
-| First-Time Homebuyer | Entry-level price-band communities marketed with affordability, warranty, and mortgage-shopping support. |
-| Move-Up Buyer | Larger Choice Plans and upgraded Style Choice packages targeted at families upgrading from a starter home. |
-| Active Adult / Age-Targeted | Livable Features and single-story plans positioned at empty-nester and active-adult buyers. |
-| Build-to-Order Personalization | Buyer selects a plan, Choice Plan structural option, and Style Choice finishes during the pre-construction period. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Multiple Listing Service (MLS) | Beazer communities and quick move-in inventory are syndicated to MLS, Zillow, Realtor.com, and broker portals. |
-| Realtor Partner Program | Co-broke program with licensed real-estate agents for buyer representation. |
-| Mortgage Choice Lender Network | Network of preferred mortgage lenders that compete on rate and fees for Beazer buyers. |
-| TrustBuilder Surveys | Third-party customer-experience measurement program cited by Beazer for its customer-experience ranking. |
+**Regulatory alignment 4.9** — Energy & Utilities
 
-## Solutions
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/beazer-homes-usa/](https://apis.io/providers/beazer-homes-usa/).
 
-| Name | Description |
-|------|-------------|
-| Choice Plans Homes | Production plans with structural Choice Plan options. |
-| Gatherings (Active Adult) | Beazer's age-targeted attached-home community concept for downsizing buyers. |
-| Quick Move-In Inventory | Completed or near-completed homes available for accelerated closing. |
+## How this profile is made
 
-## Maintainers
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-**FN:** Kin Lane
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Beazer Homes USA: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**Email:** info@apievangelist.com
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/beazer-homes-usa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
